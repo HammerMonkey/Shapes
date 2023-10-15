@@ -1,0 +1,3 @@
+Triangle
+Number of records: 1
+a = 1, b = 1, c = 1, area = 0.43, perimeter = 3

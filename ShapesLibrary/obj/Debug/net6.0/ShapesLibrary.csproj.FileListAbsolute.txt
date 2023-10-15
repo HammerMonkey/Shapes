@@ -1,0 +1,11 @@
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.deps.json
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.dll
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.pdb
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.AssemblyInfoInputs.cache
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.AssemblyInfo.cs
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.dll
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\refint\ShapesLibrary.dll
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.pdb
+C:\Users\Patryk\source\repos\Shapes\ShapesLibrary\obj\Debug\net6.0\ref\ShapesLibrary.dll

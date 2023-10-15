@@ -1,0 +1,35 @@
+<shapes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Exercise.xsd">
+    <shape>
+        <type>Circle</type>
+        <a>1</a> <!-- a is the radius in case of circle-->
+    </shape>
+    <shape>
+        <type>Rectangle</type>
+        <a>1</a>
+	<b>2</b>
+    </shape>
+	<shape>
+        <type>Rectangle</type>
+        <a>1</a>
+	<b>2</b>
+    </shape>
+    <shape>
+        <type>Triangle</type>
+        <a>3</a>
+        <b>4</b>
+		<c>4</c>
+    </shape>
+	<shape>
+        <type>Triangle</type>
+        <a>1.5</a>
+        <b>2</b>
+	<c>2.5</c>
+    </shape>
+	<shape>
+        <type>Triangle</type>
+        <a>6</a>
+        <b>8</b>
+	<c>10</c>
+    </shape>
+</shapes>

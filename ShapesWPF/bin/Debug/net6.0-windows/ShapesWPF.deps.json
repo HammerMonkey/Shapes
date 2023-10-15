@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShapesWPF/1.0.0": {
+        "dependencies": {
+          "ShapesLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ShapesWPF.dll": {}
+        }
+      },
+      "ShapesLibrary/1.0.0": {
+        "runtime": {
+          "ShapesLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShapesWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapesLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

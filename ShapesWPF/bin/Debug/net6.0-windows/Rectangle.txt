@@ -1,0 +1,4 @@
+Rectangle
+Number of records: 2
+a = 1, b = 2 area = 2, perimeter = 6
+a = 1, b = 2 area = 2, perimeter = 6

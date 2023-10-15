@@ -1,0 +1,5 @@
+Triangle
+Number of records: 3
+a = 3, b = 4, c = 5, area = 6, perimeter = 12
+a = 1.5, b = 2, c = 2.5, area = 1.5, perimeter = 6
+a = 6, b = 8, c = 10, area = 24, perimeter = 24
